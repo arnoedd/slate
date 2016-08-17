@@ -11,6 +11,7 @@ toc_footers:
 includes:
   - description
   - mispelled
+  - genres
 
 search: true
 ---
